@@ -180,7 +180,7 @@
             let eventInfo = document.getElementById("event-info");
             if (eventInfo.classList.contains("hidden")) {
                 eventInfo.classList.remove("hidden");
-                eventInfo.innerHTML = "Приглашаем вас 9 марта в 19:00 <strong>в дом Зерека</strong> чтобы отметить праздник!";
+                eventInfo.innerHTML = "Приглашаем вас 9 марта в 18:30 <strong>в дом Зерека</strong> чтобы отметить праздник!";
             }
         }
     </script>
